@@ -50,12 +50,12 @@ Formacao: Administracao e Informatica
 </div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felipezzk&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9&icon_color=1f6feb&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipezzk&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeDev567&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9&icon_color=1f6feb&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev567&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=felipezzk&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=FelipeDev567&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub streak" />
 </p>
 
 <div align="center">
