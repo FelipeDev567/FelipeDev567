@@ -45,15 +45,6 @@ Formacao: Administracao e Informatica
 
 <div align="center">
 
-### Dashboard
-
-</div>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeDev567&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev567&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top languages" />
-</p>
-
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=FelipeDev567&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=d4d4d4&dates=8a8a8a&sideLabels=ffffff" alt="GitHub streak" />
 </p>
