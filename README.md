@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Felipezzk&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:00c2ff&fontColor=ffffff&desc=JavaScript%20%7C%20Pawn%20%7C%20Lua&descAlign=50&descAlignY=60" alt="Banner animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Felipezzk&fontAlign=50&fontAlignY=40&color=0:000000,50:0a0a0a,100:121212&fontColor=ffffff&desc=JavaScript%20%7C%20Pawn%20%7C%20Lua&descAlign=50&descAlignY=60" alt="Banner animado" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Oi%2C+eu+sou+Felipezzk;Tenho+16+anos+e+amo+programar;Stack%3A+JavaScript+e+Pawn;Atualmente+estudando+Lua;Welcome+to+my+GitHub+profile" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Oi%2C+eu+sou+Felipezzk;Tenho+16+anos+e+amo+programar;Stack%3A+JavaScript+e+Pawn;Atualmente+estudando+Lua;Welcome+to+my+GitHub+profile" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-16-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Idade" />
-  <img src="https://img.shields.io/badge/Main%20Stack-JavaScript%20%7C%20Pawn-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Main stack" />
-  <img src="https://img.shields.io/badge/Studying-Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Studying Lua" />
+  <img src="https://img.shields.io/badge/Age-16-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Idade" />
+  <img src="https://img.shields.io/badge/Main%20Stack-JavaScript%20%7C%20Pawn-000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000" alt="Main stack" />
+  <img src="https://img.shields.io/badge/Studying-Lua-000000?style=for-the-badge&logo=lua&logoColor=ffffff&labelColor=000000" alt="Studying Lua" />
 </p>
 
 <div align="center">
@@ -40,7 +40,7 @@ Formacao: Administracao e Informatica
 </p>
 
 <p align="center">
-  <img alt="Pawn" src="https://img.shields.io/badge/Pawn-2C2D72?style=for-the-badge&labelColor=111827" />
+  <img alt="Pawn" src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&labelColor=000000" />
 </p>
 
 <div align="center">
@@ -50,12 +50,12 @@ Formacao: Administracao e Informatica
 </div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeDev567&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9&icon_color=1f6feb&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev567&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeDev567&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev567&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=FelipeDev567&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=FelipeDev567&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=d4d4d4&dates=8a8a8a&sideLabels=ffffff" alt="GitHub streak" />
 </p>
 
 <div align="center">
@@ -73,5 +73,5 @@ Formacao: Administracao e Informatica
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:1f6feb,100:00c2ff" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0a0a0a,100:121212" alt="Footer wave" />
 </p>
